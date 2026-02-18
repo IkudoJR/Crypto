@@ -10,7 +10,7 @@ The code provided here is a Proof of Concept (PoC) demonstrating how encryption 
 - **Language:** C++ & Assembly
 - **Encryption:** Custom XOR-based algorithm
 - **Target OS:** Windows & Linux
-<br><br>
+
 This is a PoC of a ransomware using assembly and C++
 can be easily modified with any other encryption/decryption algorithm.
 
